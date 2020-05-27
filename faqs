@@ -1,0 +1,35 @@
+Github:
+
+  questions:
+
+1. what is git commit
+
+ 2. git log
+ 
+ 3.  git pull and  git fetch difference 
+
+ 4. git rebase and git pull command difference
+
+ 5. Various git branching strategies?
+
+ 6. git webhooks?
+
+ 7. git architecture and workflow?
+
+ 8. what is revision ?
+
+Git:
+
+https://www.siteground.com/tutorials/git/commands.htm
+
+https://about.gitlab.com/downloads/#centos7
+
+https://about.gitlab.com/downloads/#ubuntu1404
+
+https://git-scm.com/book/en/v2
+
+https://github.com/gitlabhq/gitlab-recipes/tree/master/install/centos
+
+http://stackoverflow.com/questions/3230074/git-pushing-specific-commit
+
+commands:  http://rogerdudler.github.io/git-guide/
