@@ -1,6 +1,6 @@
 CASE STUDY- RESOLVING MERGE CONFLICTS
 You work for Zendrix Software & Co. You have been assigned the task of updating the Master branch of their Git repository with all the features from the feature branches.
-Following is the GitHub account, https://github.com/devops-intellipaat/merge-conflict.git
+Following is the GitHub account, https://github.com/vmstech/merge-conflict.git
 Consider,
 • Feature1 branch to be a public branch
 • Feature2 branch to be a private branch
